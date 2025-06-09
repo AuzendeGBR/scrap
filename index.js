@@ -12,7 +12,7 @@ const SMTP_PORT = parseInt(process.env.SMTP_PORT || "587", 10);
 // ---------------------------------------------------------
 
 // --- Target URL changed to Terra Esportes ---
-const TARGET_URL = "https://www.terra.com.br/esportes/futebol/";
+const TARGET_URL = "https://www.terra.com.br/esportes/sport";
 const BASE_URL = "https://www.terra.com.br"; // Base URL for resolving relative links
 // ---------------------------------------------
 
