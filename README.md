@@ -4,7 +4,7 @@ Este projeto implementa um backend em Node.js que realiza o scraping de notícia
 
 ## Funcionalidades
 
-- Realiza scraping da página de futebol do Terra Esportes (https://www.terra.com.br/esportes/futebol/).
+- Realiza scraping da página de futebol do Terra Esportes (https://www.terra.com.br/esportes/sport).
 - Extrai as 5 notícias mais recentes (título e link).
 - Formata as notícias em um corpo de email HTML.
 - Envia o email para um destinatário configurado via variáveis de ambiente.
